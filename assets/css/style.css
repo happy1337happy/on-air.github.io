@@ -84,7 +84,7 @@ body{
     height: 576px;
     margin-top: -192px;
     margin-left: -216px;
-    background: url(/assets/gif/gif-2.gif) no-repeat 50% 50%;  
+    background: url(../gif/gif-2.gif) no-repeat 50% 50%;  
 }
 .preloader-image-channels{
     position: relative;
@@ -94,7 +94,7 @@ body{
     height: 500px;
     margin-top: -222px;
     margin-left: -105px;
-    background: url(/assets/gif/gif-3.gif) no-repeat 50% 50%;  
+    background: url(../gif/gif-3.gif) no-repeat 50% 50%;  
 }
 .preloader-image-games {
     position: relative;
@@ -104,7 +104,7 @@ body{
     height: 386px;
     margin-top: -78px;
     margin-left: -78px;
-    background: url(/assets/gif/gif-4.gif) no-repeat 50% 50%; 
+    background: url(../gif/gif-4.gif) no-repeat 50% 50%; 
   }
   
 .container{
@@ -299,7 +299,7 @@ header .header-wrapper .header-right{
     transform: translateY(-50%);
     width: 19px;
     height: 19px;
-    background-image: url(/assets/img/search.svg);
+    background-image: url(../img/search.svg);
     background-size: cover;
     background-repeat: no-repeat;
     pointer-events: none;
@@ -366,7 +366,7 @@ header .header-wrapper .btn-mob-menu{
     width: 100%;
 }
 .bammer-sigma{
-    background-image: url(/assets/img/top-img-1.png);
+    background-image: url(../img/top-img-1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -455,7 +455,7 @@ header .header-wrapper .btn-mob-menu{
     cursor: pointer;
 }
 .products{
-    background-image: url(/assets/img/background-img.png);
+    background-image: url(../img/background-img.png);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;

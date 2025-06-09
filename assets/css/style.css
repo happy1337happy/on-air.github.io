@@ -74,7 +74,7 @@ body{
     height: 438px;
     margin-top: -156px;
     margin-left: -183px;
-    background: url(/assets/gif/gif-1.gif) no-repeat 50% 50%; 
+    background: url(../gif/gif-1.gif) no-repeat 50% 50%; 
 }
 .preloader-image-series{
     position: relative;
